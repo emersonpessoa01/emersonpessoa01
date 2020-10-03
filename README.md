@@ -1,5 +1,3 @@
-<p align="center", font="heigth-bold"> What's up Devs 👋 </p>. <br>
-
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## I´m Emerson Pessoa <br>
+<h4 align="center"><b> What's up Devs 👋</b> </h4>. <br><br>
+<h3 align="center"><br> I´m Emerson Pessoa</b></h3><br>
 <hr>
 
 <p align="center">
