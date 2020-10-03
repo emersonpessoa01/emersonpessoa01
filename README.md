@@ -1,4 +1,4 @@
-### What's up Devs 👋
+### What's up Devs 👋 <br>
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-## What's up Devs <br>
+## I´m Emerson Pessoa <br>
+<hr>
+
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=html&message=frontend&color=rgb(255,0,0)&style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/static/v1?label=css&message=frontend&color=rgb(102,0,204)&style=for-the-badge&logo=css3"/>
