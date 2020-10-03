@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Hi.
 --🌱I am graduated in Industrial Chemistry and recently graduated in Computer Networks.
 
--At the beginning of 2020, out of curiosity. 
--I started studying Javascript, HTML and CSS. And man I fell in love soon. 
+-At the beginning of 2020, out of curiosity.<br> 
+-I started studying Javascript, HTML and CSS. And man I fell in love soon. <br>
 -Then, I never stopped wanting to learn about the Dev world.
