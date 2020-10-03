@@ -14,7 +14,7 @@
 
 <hr>
 
-### Technology:
+### Language and Tools:
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=html&message=frontend&color=rgb(255,0,0)&style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/static/v1?label=css&message=frontend&color=rgb(102,0,204)&style=for-the-badge&logo=css3"/>
