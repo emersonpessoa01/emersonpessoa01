@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 -And I fell in love right away.<br>
 -Then, I never stopped wanting to learn about the Dev world.<br>
 <hr>
+
 ### Contributors:
 [<img src="image/images/githubman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) |
 | :---: | :---: | :---: |
      
-<hr>
