@@ -1,12 +1,7 @@
-<h4 align="center"><b> What's up Devs 👋</b> </h4>. <br><br>
-<h3 align="center"><br> I´m Emerson Pessoa</b></h3><br>
-<hr>
-
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
 -In the beginning of 2020, out of curiosity.<br>
 -And soon I fell in love with programming.<br>
 -Since then I haven't stopped wanting to learn about the Dev world.<br>
-<hr>
 
 ### Contributors:
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) |
