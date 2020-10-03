@@ -1,5 +1,5 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
-<h3 align="center"><b> I´m Emerson Pessoa </b></h3><img src="https://img.shields.io/static/v1?label=linkedin&message=network&color=rgb(255,255,0)&style=for-the-badge&logo=linkedin"/>
+<h3 align="center"><b> I´m Emerson Pessoa </b></h3><a href="https://www.linkedin.com/in/emersonpessoa/"><img src="https://img.shields.io/static/v1?label=linkedin&message=network&color=rgb(255,255,0)&style=for-the-badge&logo=linkedin"/></a>
 <hr>
 
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
