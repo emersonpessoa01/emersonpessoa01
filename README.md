@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 
 
 -🌱I am graduated in Industrial Chemistry and recently graduated in Computer Networks.<br>
--At the beginning of 2020, out of curiosity.<br> 
--I started studying Javascript, HTML and CSS. <br>
+-At the beginning of 2020, out of curiosity.<br>
 -And I fell in love right away.<br>
--Then, I never stopped wanting to learn about the Dev world.
+-Then, I never stopped wanting to learn about the Dev world.<br>
+
+[<img src="image/images/EmePessoa.jpeg" width=90 ><br><sub> Emerson Pessoa </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/githubman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) |
+| :---: | :---: | :---: | :---: |
+     
+<hr>
