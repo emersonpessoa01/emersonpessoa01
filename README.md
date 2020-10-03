@@ -1,6 +1,6 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
 <h3 align="center"><b> I´m Emerson Pessoa </b></h3>
-
+<hr>
 
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
 -In the beginning of 2020, out of curiosity.<br>
