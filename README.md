@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h3 align="center"><br> I´m Emerson Pessoa</b></h3><br>
 <hr>
 
--🌱I am graduated in Industrial Chemistry and recently graduated in Computer Networks.<br>
--At the beginning of 2020, out of curiosity.<br>
--And I fell in love right away.<br>
--Then, I never stopped wanting to learn about the Dev world.<br>
+-🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
+-In the beginning of 2020, out of curiosity.<br>
+-And soon I fell in love with programming.<br>
+-Since then I haven't stopped wanting to learn about the Dev world.<br>
 <hr>
 
 ### Contributors:
