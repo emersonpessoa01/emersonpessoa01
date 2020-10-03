@@ -1,5 +1,7 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
-<h3 align="center"><b> I´m Emerson Pessoa </b></h3><a href="https://www.linkedin.com/in/emersonpessoa/" target="_blank"><img src="https://img.shields.io/static/v1?label=linkedin&message=network&color=rgb(255,255,0)&style=for-the-badge&logo=linkedin"/></a>
+<h3 align="center"><b> I´m Emerson Pessoa </b></h3>
+<p center="center"><a href="https://www.linkedin.com/in/emersonpessoa/" target="_blank"><img src="https://img.shields.io/static/v1?label=linkedin&message=network&color=rgb(255,255,0)&style=for-the-badge&logo=linkedin"/></a>
+<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" width=10 target="_blank"><img src="image/images/whatsapp.png" width=90 ></a></p>
 <hr>
 
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
