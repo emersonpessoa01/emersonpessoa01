@@ -21,11 +21,6 @@
  </p>
  <hr>
  
- ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats)
- 
- 
  ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
  | :---:| :---: |
 
