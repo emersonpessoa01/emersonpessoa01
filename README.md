@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/static/v1?label=css&message=frontend&color=rgb(102,0,204)&style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/static/v1?label=javascript&message=frontend&color=blue&style=for-the-badge&logo=JAVASCRIPT"/>
 <img src="https://img.shields.io/static/v1?label=node&message=backend&color=green&style=for-the-badge&logo=node.js"/>
-<a href="https://www.linkedin.com/in/emersonpessoa/" target="_blank"><img src="https://img.shields.io/static/v1?label=linkedin&message=network&color=rgb(51,51,153)&style=for-the-badge&logo=linkedin"/></a>
+<img src="https://img.shields.io/static/v1?label=react&message=frontend&color=rgb(51,51,153)&style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/static/v1?label=linkedin&message=network&color=rgb(51,51,153)&style=for-the-badge&logo=linkedin"/>
  </p>
  <hr>
  
