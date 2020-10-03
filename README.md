@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### Contributors:
-[<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | <img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) |
+[<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) |
 | :---: | :---: | :---: | :---: |
 <hr>
 <p align="center">
