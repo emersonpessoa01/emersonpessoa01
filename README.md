@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hi.<br>
+### I'm Emerson Pessoa
 -🌱I am graduated in Industrial Chemistry and recently graduated in Computer Networks.<br>
 -At the beginning of 2020, out of curiosity.<br> 
 -I started studying Javascript, HTML and CSS. <br>
