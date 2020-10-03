@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi.
---🌱I am graduated in Industrial Chemistry and recently graduated in Computer Networks.
-
+Hi.<br>
+-🌱I am graduated in Industrial Chemistry and recently graduated in Computer Networks.<br>
 -At the beginning of 2020, out of curiosity.<br> 
 -I started studying Javascript, HTML and CSS. <br>
 -And I fell in love right away.<br>
