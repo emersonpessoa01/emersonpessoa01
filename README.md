@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/static/v1?label=react&message=frontend&color=rgb(51,51,153)&style=for-the-badge&logo=react"/>
  </p>
  <hr>
+ 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true)
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
