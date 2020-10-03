@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi.
+--🌱I am graduated in Industrial Chemistry and recently graduated in Computer Networks.
+
+-At the beginning of 2020, out of curiosity. 
+-I started studying Javascript, HTML and CSS. And man I fell in love soon. 
+-Then, I never stopped wanting to learn about the Dev world.
