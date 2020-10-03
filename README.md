@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi.<br>
-### I'm Emerson Pessoa <br>
+<br>
+## I'm Emerson Pessoa <br>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=html&message=frontend&color=rgb(255,0,0)&style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/static/v1?label=css&message=frontend&color=rgb(102,0,204)&style=for-the-badge&logo=css3"/>
