@@ -8,9 +8,6 @@
 <a href="https://mail.google.com/mail/mu/mp/106/#tl/priority/%5Esmartlabel_personal" target="_blank"><img src="image/images/gmail.png" width=60></a>
 </p>
 <hr>
-</p>
-<hr>
-
 
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
 -In the beginning of 2020, out of curiosity.<br>
