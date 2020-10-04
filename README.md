@@ -1,12 +1,6 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
 <h3 align="center"><b> I´m Emerson Pessoa </b></h3>
 <p center="center">
-<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=52 ></a>
-</a>
-<a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
-<a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
-<a href="https://mail.google.com/mail/mu/mp/106/#tl/priority/%5Esmartlabel_personal" target="_blank"><img src="image/images/gmail.png" width=60></a>
-</p>
 <hr>
 
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
@@ -14,6 +8,12 @@
 -And soon I fell in love with programming.<br>
 -Since then I haven't stopped wanting to learn about the Dev world.
 <hr>
+<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=52 ></a>
+</a>
+<a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
+<a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
+<a href="https://mail.google.com/mail/mu/mp/106/#tl/priority/%5Esmartlabel_personal" target="_blank"><img src="image/images/gmail.png" width=60></a>
+</p>
 
 ### Contributors:
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) |
