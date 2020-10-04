@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
 <a hef="eps011108@gmail.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
 
-<a href="lunde@adobe.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
+<a href="emailto:lunde@adobe.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
 
 </p>
 <hr>
