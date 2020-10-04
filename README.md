@@ -48,6 +48,7 @@
  | :---:| :---: |
 </details> -->
 
+<h3><b> Language and Tools:</h3></b>
 <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
