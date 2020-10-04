@@ -27,6 +27,8 @@
 <hr>
 <details>
 <summary><h3><b> Language and Tools:</h3></b>
+ </summary>
+<br>
  <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,8 +44,6 @@
 <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
  </p>
  <hr>
- </summary>
-<br>
 
 ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
  | :---:| :---: |
