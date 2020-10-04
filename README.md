@@ -20,7 +20,8 @@
 
 ### Language and Tools:
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=html&message=frontend&color=rgb(255,0,0)&style=for-the-badge&logo=html5"/>
+
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/static/v1?label=css&message=frontend&color=rgb(102,0,204)&style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/static/v1?label=javascript&message=frontend&color=blue&style=for-the-badge&logo=JAVASCRIPT"/>
 <img src="https://img.shields.io/static/v1?label=node&message=backend&color=green&style=for-the-badge&logo=node.js"/>
