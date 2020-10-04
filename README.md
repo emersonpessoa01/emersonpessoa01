@@ -25,9 +25,9 @@
 | :---: | :---: | :---: | :---: |
 
 <hr>
-
-### Language and Tools:
-<p align="center">
+<details>
+<summary><h3><b> Language and Tools:</h3></b>
+ <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -40,12 +40,14 @@
 <img src="https://img.shields.io/badge/heroku-%239933ff.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-
  </p>
  <hr>
- 
- ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
+ </summary>
+<br>
+
+![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
  | :---:| :---: |
+</details>
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
