@@ -13,11 +13,7 @@
 <a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
 <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
 
-
-<a href="emailto:lunde@adobe.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
-[<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](emailto:lunde@adobe.com/)
-
-[<img src="image/images/gmail.png" width=90 >](mailto:ensonpessoa@bol.com.br?subject=[GitHub]%20Source%20Han%20Sans)
+[<img src="image/images/gmail.png" width=60 >](mailto:ensonpessoa@bol.com.br?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 </p>
