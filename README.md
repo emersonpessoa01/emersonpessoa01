@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/linux-%2335495e.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/netlify-%236600ff.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/heroku-%239933ff.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%234B275F.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
  </p>
  <hr>
