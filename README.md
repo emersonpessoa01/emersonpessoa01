@@ -12,7 +12,7 @@
 </a>
 <a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
 <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
-<a hef="eps011108@gmail.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
+
 
 <a href="emailto:lunde@adobe.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
 
