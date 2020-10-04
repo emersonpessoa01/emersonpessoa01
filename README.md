@@ -15,6 +15,7 @@
 <a hef="mailto:eps011108@gmail.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
 
 [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Source Han Sans)
+[<img src="image/images/gmail.png" width=60>](mailto:eps011108@gmail.com?subject=[GitHub] Source Han Sans)
 </p>
 <hr>
 
