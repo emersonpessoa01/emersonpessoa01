@@ -20,7 +20,7 @@
 </p>
 <hr>
 
-### Contributors:
+#### Contributors:
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) |
 | :---: | :---: | :---: | :---: |
 
@@ -48,7 +48,7 @@
  | :---:| :---: |
 </details> -->
 
-<h3><b> Language and Tools:</h3></b>
+<h4><b> Language and Tools:</h4></b>
 <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
