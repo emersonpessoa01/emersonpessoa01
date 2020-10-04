@@ -1,9 +1,6 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
-<h3 align="center"><b> I´m Emerson Pessoa </b></h3><br>
-
-
-<img src="https://enjw1gahotouswk.m.pipedream.net" />
-
+<h3 align="center"><b> I´m Emerson Pessoa <img src="https://enjw1gahotouswk.m.pipedream.net" /> </b></h3><br>
+<p align="center"><img src="https://enjw1gahotouswk.m.pipedream.net" /></p>
 
 <hr>
 
