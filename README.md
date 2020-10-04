@@ -16,7 +16,9 @@
 
 <a href="emailto:lunde@adobe.com?subject=[GitHub] Source Han Sans"><img src="image/images/gmail.png" width=60></a>
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](emailto:lunde@adobe.com/)
-[email](emaito:eps011108@gmail.com/)
+
+[<img src="image/images/gitironman.jpg" width=90 >](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 
 </p>
 <hr>
