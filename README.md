@@ -12,8 +12,8 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
-<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=52 ></a>
 <a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
+<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=52 ></a>
 <a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail_1.jpg" width=40 alt="gmail"></a>
  <!--[<img src="image/images/gmail.png" width=60 alt="gmail">](mailto:emersonpess011108@gmail.com?)]-->
  
