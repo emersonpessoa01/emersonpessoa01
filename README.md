@@ -26,9 +26,7 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-
-
- <img src="https://img.shields.io/static/v1?label=linux&message=SO&color=rgb(204,102,255)&style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/linux-%23333300.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/>
  </p>
  <hr>
  
