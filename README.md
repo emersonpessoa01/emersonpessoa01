@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-%23333300.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/netlify-%236600ff.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
+
  </p>
  <hr>
  
