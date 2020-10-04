@@ -1,5 +1,8 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
-<h3 align="center"><b> I´m Emerson Pessoa </b></h3>
+<h3 align="center"><b> I´m Emerson Pessoa </b></h3><br>
+
+<img src=”https://komarev.com/ghpvc/?username=emersonpessoa01" />
+
 <hr>
 
 <p center="center">
