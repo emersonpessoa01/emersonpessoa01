@@ -1,18 +1,22 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
 <h3 align="center"><b> I´m Emerson Pessoa </b></h3>
-<p center="center">
 <hr>
 
+<p center="center">
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
 -In the beginning of 2020, out of curiosity.<br>
 -And soon I fell in love with programming.<br>
 -Since then I haven't stopped wanting to learn about the Dev world.<br>
+</p>
 
+<p align="center">
 <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=52 ></a>
-</a>
 <a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
 <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
-[<img src="image/images/gmail.png" width=60  alt="gmail">](mailto:emersonpess011108@gmail.com?)
+<a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail.png" width=60 alt="gmail"></a>
+ <!--[<img src="image/images/gmail.png" width=60  alt="gmail">](mailto:emersonpess011108@gmail.com?)]-->
+ 
+
 </p>
 <hr>
 
