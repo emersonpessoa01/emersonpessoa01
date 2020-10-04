@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-%23333300.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/netlify-%236600ff.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/heroku-%239933ff.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
  </p>
  <hr>
