@@ -23,8 +23,7 @@
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/static/v1?label=css&message=frontend&color=rgb(102,0,204)&style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/static/v1?label=javascript&message=frontend&color=blue&style=for-the-badge&logo=JAVASCRIPT"/>
 <img src="https://img.shields.io/static/v1?label=node&message=backend&color=green&style=for-the-badge&logo=node.js"/>
 <img src="https://img.shields.io/static/v1?label=react&message=frontend&color=rgb(51,51,153)&style=for-the-badge&logo=react"/>
