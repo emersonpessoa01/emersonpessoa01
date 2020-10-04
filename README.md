@@ -3,7 +3,7 @@
 <p center="center"><a href="https://www.linkedin.com/in/emersonpessoa/" target="_blank"><img src="https://img.shields.io/static/v1?label=linkedin&message=network&color=rgb(255,255,0)&style=for-the-badge&logo=linkedin"/></a>
 <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" width=10% target="_blank"><img src="image/images/whatsapp_2.png" width=90 ></a>
 </a>
-<a href="https://t.me/emersonpessoa05_10_2008" width=10% target="_blank"><img src="image/images/telegram_2.jpg" width=90 ></a><</p>
+<a href="https://t.me/emersonpessoa05_10_2008" width=10% target="_blank"><img src="image/images/telegram_2.jpg" width=90 ></a></p>
 <hr>
 
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
