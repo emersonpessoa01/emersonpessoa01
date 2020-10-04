@@ -6,8 +6,8 @@
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
 -In the beginning of 2020, out of curiosity.<br>
 -And soon I fell in love with programming.<br>
--Since then I haven't stopped wanting to learn about the Dev world.
-<hr>
+-Since then I haven't stopped wanting to learn about the Dev world.<br>
+
 <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=52 ></a>
 </a>
 <a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
