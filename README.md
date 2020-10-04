@@ -4,9 +4,10 @@
 
 <p center="center">
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
--In the beginning of 2020, out of curiosity.<br>
--And soon I fell in love with programming.<br>
--Since then I haven't stopped wanting to learn about the Dev world.<br>
+- In the beginning of 2020, out of curiosity.<br>
+- I started studying html, css and javascript.<br>
+- And soon I fell in love with programming.<br>
+- Since then I haven't stopped wanting to learn about the Dev world.<br>
 </p>
 
 <p align="center">
