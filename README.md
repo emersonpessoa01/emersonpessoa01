@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=30 ></a> &nbsp;
-<a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=35 ></a> &nbsp;
-<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=42 ></a> &nbsp;
-<a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail_1.jpg" width=30 alt="gmail"></a>&nbsp;
+ <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=30 title="Linkedin" ></a> &nbsp;
+<a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=35 title="Telegram" ></a> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=42 title="Whatsapp"></a> &nbsp;
+<a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail_1.jpg" width=30 alt="gmail" title="Gmail"></a>&nbsp;
  <!--[<img src="image/images/gmail.png" width=60 alt="gmail">](mailto:emersonpess011108@gmail.com?)]-->
  
 </p>
