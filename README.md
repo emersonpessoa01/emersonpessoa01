@@ -17,7 +17,7 @@
 <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_5.png" width=35 title="Whatsapp"></a> &nbsp;
 <a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail_1.jpg" width=30 alt="gmail" title="Gmail"></a>&nbsp;
  <!--[<img src="image/images/gmail.png" width=60 alt="gmail">](mailto:emersonpess011108@gmail.com?)]-->
- <img src="image/images/computer-illustration.png" width=auto align="left" >
+ <img src="image/images/computer-illustration.png" width=auto align="center" >
 </p>
 <hr>
 
