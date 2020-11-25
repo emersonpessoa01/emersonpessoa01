@@ -8,7 +8,7 @@
 - In the beginning of 2020, out of curiosity.<br>
 - I started studying html, css and javascript.<br>
 - And soon I fell in love with programming.<br>
-- Since then I haven't stopped wanting to learn about the Dev World.<br>
+- Since then I haven't stopped wanting to learn about the Dev World!!!<br>
 </p>
 
 <p align="center">
