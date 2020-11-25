@@ -1,21 +1,23 @@
 <p align="center"><b> What´s Up, Devs!! </b></p>
-<h3 align="center"><b> I´m Emerson Pessoa </b></h3>
+<h3 align="center"><b> I´m Emerson Pessoa</b></h3><br>
+<p align="center"><img src="https://enjw1gahotouswk.m.pipedream.net" /></p>
 <hr>
 
 <p center="center">
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
--In the beginning of 2020, out of curiosity.<br>
--And soon I fell in love with programming.<br>
--Since then I haven't stopped wanting to learn about the Dev world.<br>
+- In the beginning of 2020, out of curiosity.<br>
+- I started studying html, css and javascript.<br>
+- And soon I fell in love with programming.<br>
+- Since then I haven't stopped wanting to learn about the Dev World.<br>
 </p>
 
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_4.png" width=52 ></a>
-<a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=45 ></a>
-<a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=40 ></a>
-<a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail.png" width=60 alt="gmail"></a>
+ <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=30 title="Linkedin" ></a> &nbsp;
+<a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=33 title="Telegram" ></a> &nbsp;
+<a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_5.png" width=35 title="Whatsapp"></a> &nbsp;
+<a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail_1.jpg" width=30 alt="gmail" title="Gmail"></a>&nbsp;
  <!--[<img src="image/images/gmail.png" width=60 alt="gmail">](mailto:emersonpess011108@gmail.com?)]-->
- 
+ <img src="image/images/computer-illustration.png" width=auto align="center" >
 </p>
 <hr>
 
@@ -24,8 +26,30 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 <hr>
+<!--<details>
+<summary><h3><b> Language and Tools:</h3></b>
+ </summary>
+ <p align="center">
 
-### Language and Tools:
+<img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-%23e6e6e6.svg?&style=for-the-badge&logo=mongodb&logoColor=rgb(51,204,51) "/>
+<img src="https://img.shields.io/badge/linux-%2335495e.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/netlify-%236600ff.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/heroku-%239933ff.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+ </p>
+ <hr>
+
+![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
+ | :---:| :---: |
+</details> -->
+
+<h4><b> Language and Tools:</h4></b>
 <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,11 +63,10 @@
 <img src="https://img.shields.io/badge/heroku-%239933ff.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-
  </p>
  <hr>
- 
- ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
+
+![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
  | :---:| :---: |
 
 <!--
