@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin.png" width=30 title="Linkedin" ></a> &nbsp;
+ <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin_edited.png" width=30 title="Linkedin" ></a> &nbsp;
 <a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=33 title="Telegram" ></a> &nbsp;
 <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_5.png" width=35 title="Whatsapp"></a> &nbsp;
 <a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail_1.jpg" width=30 alt="gmail" title="Gmail"></a>&nbsp;
