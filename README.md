@@ -1,8 +1,4 @@
-<p align="center"><b> What´s Up, Devs!! </b></p>
-<h3 align="center"><b> I´m Emerson Pessoa</b></h3><br>
-<p align="center"><img src="image/images/gitflorest_2.jpg.png" width="100%"alt="Gitflorest" > </p>
-<p align="center"><img src="https://enjw1gahotouswk.m.pipedream.net" /></p>
-<hr>
+
 
 <p center="center">
 -🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
@@ -21,6 +17,11 @@
  <img src="image/images/computer-illustration.png" width=auto align="center" >
 </p>
 <hr>
+<!-- <p align="center"><b> What´s Up, Devs!! </b></p>
+<h3 align="center"><b> I´m Emerson Pessoa</b></h3><br>
+<p align="center"><img src="image/images/gitflorest_2.jpg.png" width="100%"alt="Gitflorest" > </p>
+<p align="center"><img src="https://enjw1gahotouswk.m.pipedream.net" /></p>
+<hr> -->
 
 ### Contributors:
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/lucas-skywalker.gif" width=115  heigth=120><br><sub> Luke Skywalker </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/Ahsoka_vs_Maul.gif" width=115  heigth=120><br><sub> Ahsoka Tano </sub>](https://github.com/emersonpessoa01)
