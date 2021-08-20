@@ -65,6 +65,8 @@
 <img src="https://img.shields.io/badge/heroku-%239933ff.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-%23d93025.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponents-%23ed9ac2.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098"/>
  </p>
  <hr>
 
