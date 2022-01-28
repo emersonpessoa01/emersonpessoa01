@@ -6,6 +6,7 @@
 - Comecei a estudar HTML, CSS e JAVACRIPT.<br>
 - E logo de cara me apaixonei pela programação.<br>
 Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
+- Iniciando em Angular e Springboot. Porém, atualmente estou mais envolvido no Programa Desenvolve da Boticário com trilha FullStack ministrado pela Alura
 </p>
 
 <p align="center">
