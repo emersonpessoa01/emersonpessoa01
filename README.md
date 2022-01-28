@@ -1,12 +1,12 @@
 
 
 <p center="center">
--🌱Sou formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
-- No início de 2020, por curiosidade.<br>
-- Comecei a estudar HTML, CSS e JAVACRIPT.<br>
-- E logo de cara me apaixonei pela programação.<br>
-- Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
-- Iniciando em Angular e Springboot. Porém, atualmente estou mais envolvido no Programa Desenvolve da Boticário com trilha FullStack ministrado pela Alura
+🌱Sou formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
+:snowflake: No início de 2020, por curiosidade.<br>
+:snowflake: Comecei a estudar HTML, CSS e JAVACRIPT.<br>
+:snowflake: E logo de cara me apaixonei pela programação.<br>
+:snowflake: Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
+:snowflake: Iniciando em Angular e Springboot. Porém, atualmente estou mais envolvido no Programa Desenvolve da Boticário com trilha FullStack ministrado pela Alura
 </p>
 
 <p align="center">
