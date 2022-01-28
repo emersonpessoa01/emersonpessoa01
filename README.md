@@ -6,7 +6,7 @@
 :snowflake: Comecei a estudar HTML, CSS e JAVACRIPT.<br>
 :snowflake: E logo de cara me apaixonei pela programação.<br>
 :snowflake: Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
-:snowflake: Além de gostar muito de café, gosto de assisir filmes, séries, escutar rock(heavy metal) e de conversar principalemente sobre tecnologia!!!<br>
+:snowflake: Além de gostar muito de café, gosto de assisir filmes, séries, escutar rock(heavy metal) e de conversar assuntos paralelos e principalmente sobre tecnologia!!!<br>
 :snowflake: Iniciando em Angular e Springboot. Porém, atualmente estou mais envolvido no Programa Desenvolve da Boticário com trilha FullStack ministrado pela Alura
 </p>
 
