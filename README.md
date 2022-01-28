@@ -1,11 +1,11 @@
 
 
 <p center="center">
--🌱I have a degree in Industrial Chemistry and recently graduated in Computer Networks.<br>
-- In the beginning of 2020, out of curiosity.<br>
-- I started studying html, css and javascript.<br>
-- And soon I fell in love with programming.<br>
-- Since then I haven't stopped wanting to learn about the Dev World!!!<br>
+-🌱Sou formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
+- No início de 2020, por curiosidade.<br>
+- Comecei a estudar HTML, CSS e JAVACRIPT.<br>
+- E logo de cara me apaixonei pela programação.<br>
+Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
 </p>
 
 <p align="center">
