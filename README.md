@@ -1,7 +1,7 @@
 
 
 <p center="center">
-📚 Sou formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
+📚 Formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
 :snowflake: No início de 2020, por curiosidade.<br>
 :snowflake: Comecei a estudar HTML, CSS e JAVACRIPT.<br>
 :snowflake: E logo de cara me apaixonei pela programação.<br>
