@@ -6,7 +6,7 @@
 :snowflake: Comecei a estudar HTML, CSS e JAVACRIPT.<br>
 :snowflake: E logo de cara me apaixonei pela programação.<br>
 :snowflake: Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
-:snowflake: Além de gostar muito de café, gosto de assistir filmes, séries, escutar rock e de conversar assuntos diversos!!!<br>
+:snowflake: Além de gostar muito de café, gosto de assistir filmes, séries, escutar rock e de conversar diversos assuntos!!!<br>
 :snowflake: Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
 </p>
 
