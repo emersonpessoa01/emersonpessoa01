@@ -1,8 +1,8 @@
 
 
 <p center="center">
-📚 Formado Em 2020, por curiosidade.<br>
-:snowflake: Comecei a estudar HTML, CSS e JAVACRIPT.<br>
+📚 Formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
+:snowflake: em 2020 comecei a estudar HTML, CSS e JAVACRIPT.<br>
 :snowflake: E logo de cara me apaixonei pela programação.<br>
 :snowflake: Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
 :snowflake: Além de gostar muito de café, gosto de assistir filmes, séries, escutar rock e de bater um bom papo de diversos assuntos!!!<br>
