@@ -15,7 +15,9 @@
  <!--[<img src="image/images/gmail.png" width=60 alt="gmail">](mailto:emersonpess011108@gmail.com?)]-->
  <img src="image/images/computer-illustration.png" width=auto align="center" >
 </p>
-<hr>
+
+##
+
 <!-- <p align="center"><b> What´s Up, Devs!! </b></p>
 <h3 align="center"><b> I´m Emerson Pessoa</b></h3><br>
 <p align="center"><img src="image/images/gitflorest_2.jpg.png" width="100%"alt="Gitflorest" > </p>
@@ -25,6 +27,7 @@
 ### Contributors:
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/lucas-skywalker.gif" width=115  heigth=120><br><sub> Luke Skywalker </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/Ahsoka_vs_Maul.gif" width=115  heigth=120><br><sub> Ahsoka Tano </sub>](https://github.com/emersonpessoa01)
 | :---: | :---: | :---: | :---: | :---: | :---: |
+
 
 <!--<details>
 <summary><h3><b> Language and Tools:</h3></b>
@@ -50,8 +53,9 @@
 ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
  | :---:| :---: |
 </details> -->
+##
 
-<h4><b> Language and Tools:</h4></b>
+<h4 align="center"><b> Language and Tools:</h4></b>
 <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -81,6 +85,8 @@
  
 ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanyCardim&layout=compact&langs_count=7&theme=tokyonight"/> | 
  | :---:| :---: |
+ 
+ ##
  
  <h3 align="center">Views:</h3>
  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" /></p>
