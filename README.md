@@ -26,11 +26,6 @@
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/lucas-skywalker.gif" width=115  heigth=120><br><sub> Luke Skywalker </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/Ahsoka_vs_Maul.gif" width=115  heigth=120><br><sub> Ahsoka Tano </sub>](https://github.com/emersonpessoa01)
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
-
-
-<hr>
-
-
 <!--<details>
 <summary><h3><b> Language and Tools:</h3></b>
  </summary>
@@ -83,11 +78,11 @@
 -->
  
  </p>
- <hr>
-
+ 
 ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanyCardim&layout=compact&langs_count=7&theme=tokyonight"/> | 
  | :---:| :---: |
  
+ <h3 align="center">Views:</h3>
  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" /></p>
  
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
