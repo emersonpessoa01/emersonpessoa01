@@ -1,11 +1,9 @@
 
 
 <p center="center">
-📚 Formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
-:snowflake: Em 2020 comecei a estudar HTML, CSS e JAVACRIPT.<br>
-:snowflake: E logo de cara me apaixonei pela programação.<br>
-:snowflake: Desde então, não parei mais de querer aprender sobre o Mundo Dev!!!<br>
-:snowflake: Além de gostar muito de café, gosto de assistir filmes, séries, escutar rock e de bater um bom papo de diversos assuntos!!!<br>
+📚 Formação em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
+:snowflake: Entusiasta em programação.<br>
+:snowflake: Curto bastante café, gosto de assistir filmes, séries, escutar rock e de bater um bom papo de diversos assuntos!!!<br>
 :snowflake: Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
 </p>
 
@@ -87,7 +85,7 @@
  | :---:| :---: |
  
  <br>
- ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
+ 
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
