@@ -1,7 +1,7 @@
 
 
 <p center="center">
-📚 Formação em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
+📚 Formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
 :snowflake: Entusiasta em programação.<br>
 :snowflake: Curto bastante café, gosto de assistir filmes, séries, escutar rock e de bater um bom papo de diversos assuntos!!!<br>
 :snowflake: Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
