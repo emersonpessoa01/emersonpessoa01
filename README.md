@@ -85,7 +85,7 @@
  </p>
  <hr>
 
-![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01)](https://github.com/emersonpessoa01/github-readme-stats) | 
+![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanyCardim&layout=compact&langs_count=7&theme=tokyonight"/> | 
  | :---:| :---: |
  
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
