@@ -88,6 +88,8 @@
 ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanyCardim&layout=compact&langs_count=7&theme=tokyonight"/> | 
  | :---:| :---: |
  
+ <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" /></p>
+ 
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
  
  
