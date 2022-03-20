@@ -2,12 +2,12 @@
 <h1>Fala Devs!!!</h1>
 <p center="center">
 ⚗️ | Formado em Processos Químicos Industriais pela IFPA<br>
- 💻 | Redes de Computadores pela ESTÁCIO<br>
+💻 | Redes de Computadores pela ESTÁCIO<br>
 👨‍💻 | Entusiasta em programação<br>
 ☕ | Curto bastante café<br>
 📽️ | Gosto de assistir filmes e séries<br>
- 🤘🏻 | Gosto escutar rock e de bater um bom papo de diversos assuntos!!!<br>
-🧑🏻‍💻 | Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
+🤘🏻 | Gosto escutar rock e de bater um bom papo de diversos assuntos!!!</br>
+👨‍💻 | Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
 </p>
 <!--
 <p align="center">
