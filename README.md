@@ -7,14 +7,23 @@
 :snowflake: Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
 </p>
 
+<!--
 <p align="center">
  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin_edited.png" width=30 title="Linkedin" ></a> &nbsp;
 <a href="https://t.me/emersonpessoa05_10_2008" target="_blank"><img src="image/images/telegram_4.png" width=33 title="Telegram" ></a> &nbsp;
 <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!" target="_blank"><img src="image/images/whatsapp_5.png" width=35 title="Whatsapp"></a> &nbsp;
 <a href="mailto:emersonpessoa011108@gmail.com"><img src="image/images/gmail_1.jpg" width=30 alt="gmail" title="Gmail"></a>&nbsp;
- <!--[<img src="image/images/gmail.png" width=60 alt="gmail">](mailto:emersonpess011108@gmail.com?)]-->
+ <!--[<img src="image/images/gmail.png" width=60 alt="gmail">](mailto:emersonpess011108@gmail.com?)]
  <img src="image/images/computer-illustration.png" width=auto align="center" >
-</p>
+</p> -->
+
+<div align="center">
+<h4><b> Social:</h4></b>
+  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn"  height="40"  width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ <img src="image/images/computer-illustration.png" width=auto align="center" >
+  </div
 
 ##
 
@@ -24,7 +33,8 @@
 <p align="center"><img src="https://enjw1gahotouswk.m.pipedream.net" /></p>
 <hr> -->
 
-### Contributors:
+ <h2 align="center"> Contributors: </h2>
+ 
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/lucas-skywalker.gif" width=115  heigth=120><br><sub> Luke Skywalker </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/Ahsoka_vs_Maul.gif" width=115  heigth=120><br><sub> Ahsoka Tano </sub>](https://github.com/emersonpessoa01)
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
