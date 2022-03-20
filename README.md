@@ -27,11 +27,8 @@
   <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn"  height="40"  width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <img src="image/images/computer-illustration.png" width=auto align="center" >
+ <img src="image/images/computer-illustration.png" width=auto align="right" >
   </div
-
-
-
 
  ##
  
