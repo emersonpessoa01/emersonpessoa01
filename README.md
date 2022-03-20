@@ -1,10 +1,13 @@
 
 <h1>Fala Devs!!!</h1>
 <p center="center">
-📚 Formado em Processos Químicos Industriais pela IFPA e Redes de Computadores pela ESTÁCIO.<br>
-:snowflake: Entusiasta em programação.<br>
-:snowflake: Curto bastante café, gosto de assistir filmes, séries, escutar rock e de bater um bom papo de diversos assuntos!!!<br>
-:snowflake: Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
+⚗️ | Formado em Processos Químicos Industriais pela IFPA<br>
+ 💻 | Redes de Computadores pela ESTÁCIO<br>
+👨‍💻 | Entusiasta em programação<br>
+☕ | Curto bastante café<br>
+📽️ | Gosto de assistir filmes e séries<br>
+ 🤘🏻 | Gosto escutar rock e de bater um bom papo de diversos assuntos!!!<br>
+🧑🏻‍💻 | Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
 </p>
 <!--
 <p align="center">
