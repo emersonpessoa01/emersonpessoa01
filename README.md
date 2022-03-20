@@ -6,8 +6,6 @@
 :snowflake: Curto bastante café, gosto de assistir filmes, séries, escutar rock e de bater um bom papo de diversos assuntos!!!<br>
 :snowflake: Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
 </p>
-
-##
 <!--
 <p align="center">
  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin_edited.png" width=30 title="Linkedin" ></a> &nbsp;
@@ -22,16 +20,16 @@
 <p align="center"><img src="https://enjw1gahotouswk.m.pipedream.net" /></p>
 </p> -->
 
-<div align="center">
+##
+
+<div align="center"><img src="image/images/computer-illustration.png" width=auto>
 <h3><b> Social:</h3></b>
   <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn"  height="40"  width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <img src="image/images/computer-illustration.png" width=auto align="right" >
-  </div
+  <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a><div>
 
- ##
- 
+##
+
  <h3 align="center"> Contributors: </h3>
  
 [<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/lucas-skywalker.gif" width=115  heigth=120><br><sub> Luke Skywalker </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/Ahsoka_vs_Maul.gif" width=115  heigth=120><br><sub> Ahsoka Tano </sub>](https://github.com/emersonpessoa01)
