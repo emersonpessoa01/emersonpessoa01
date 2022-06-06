@@ -1,5 +1,6 @@
+<h2 align="center"> Fala Devs! </h2>
 
-<img align="left" src="image/images/computer-illustration.png" height="150">
+<img align="left" src="image/images/computer-illustration.png" height="80">
 
 ⚗️ | Formado em Processos Químicos Industriais pela IFPA.<br>
 💻 | Redes de Computadores pela ESTÁCIO.<br>
