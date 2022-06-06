@@ -37,7 +37,7 @@
 
  <h3 align="center"> Contributors: </h3>
  
-[<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/gitoctodex.gif" width=90 ><br><sub> Git Octodex </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/lucas-skywalker.gif" width=115  heigth=120><br><sub> Luke Skywalker </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/Ahsoka_vs_Maul.gif" width=115  heigth=120><br><sub> Ahsoka Tano </sub>](https://github.com/emersonpessoa01)
+[<img src="image/images/gitironman.jpg" width=90 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/wizard_2.gif" width=90 ><br><sub>The Wizard </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/octocat.gif" width=90 ><br><sub> Octocat Nerd </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/master-yoda.gif" width=115  heigth=120><br><sub> Mestre Yoda </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/lucas-skywalker.gif" width=115  heigth=120><br><sub> Luke Skywalker </sub>](https://github.com/emersonpessoa01) | [<img src="image/gifs/Ahsoka_vs_Maul.gif" width=115  heigth=120><br><sub> Ahsoka Tano </sub>](https://github.com/emersonpessoa01)
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
