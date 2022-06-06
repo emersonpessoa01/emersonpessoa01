@@ -1,14 +1,14 @@
 
-<h1>Fala Devs!!!</h1>
-<p center="center">
-⚗️ | Formado em Processos Químicos Industriais pela IFPA<br>
-💻 | Redes de Computadores pela ESTÁCIO<br>
-👨‍💻 | Entusiasta em programação<br>
-☕ | Curto bastante café<br>
-📽️ | Gosto de assistir filmes e séries<br>
-🤘🏻 | Gosto escutar rock e de bater um bom papo de diversos assuntos!!!</br>
-👨‍💻 | Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
-</p>
+<img align="left" src="image/images/computer-illustration.png" height="150">
+
+⚗️ | Formado em Processos Químicos Industriais pela IFPA.<br>
+💻 | Redes de Computadores pela ESTÁCIO.<br>
+👨‍💻 | Entusiasta em programação.<br>
+☕ | Curto bastante café.<br>
+📽️ | Gosto de assistir filmes e séries.<br>
+🤘🏻 | Gosto escutar rock e de bater um bom papo de diversos assuntos!!!<br>
+👨‍💻 | Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura.
+
 <!--
 <p align="center">
  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img src="image/images/linkedin_edited.png" width=30 title="Linkedin" ></a> &nbsp;
@@ -24,9 +24,7 @@
 </p> -->
 
 ##
-
-<div align="center"><img src="image/images/computer-illustration.png" width=auto>
-<h3><b> Social:</h3></b>
+<h3 align="center"><b> Social:</h3></b>
   <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn"  height="40"  width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
