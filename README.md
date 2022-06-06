@@ -2,13 +2,13 @@
 
 <img align="left" src="image/images/computer-illustration.png" height="80">
 
-⚗️ | Formado em Processos Químicos Industriais pela IFPA.<br>
-💻 | Redes de Computadores pela ESTÁCIO.<br>
-👨‍💻 | Entusiasta em programação.<br>
-☕ | Curto bastante café.<br>
-📽️ | Gosto de assistir filmes e séries.<br>
-🤘🏻 | Gosto escutar rock e de bater um bom papo de diversos assuntos!!!<br>
-👨‍💻 | Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura.
+⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
+💻 Redes de Computadores pela ESTÁCIO.<br>
+👨‍💻 Entusiasta em programação.<br>
+☕ Curto bastante café.<br>
+📽️ Gosto de assistir filmes e séries.<br>
+🤘🏻  Gosto escutar rock e de bater um bom papo de diversos assuntos!!!<br>
+👨‍💻 Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura.
 
 <!--
 <p align="center">
