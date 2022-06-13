@@ -7,13 +7,8 @@
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir filmes e séries.<br>
-<<<<<<< HEAD
 🤘🏻  Gosto escutar <b>rock</b> e de bater um bom papo de diversos assuntos!!!<br>
 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>.
-=======
-🤘🏻  Gosto de escutar rock e de bater um bom papo de diversos assuntos!!!<br>
-👨‍💻 Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura.
->>>>>>> 272e0f7027bd2e57303901df43d90cd4ac6e138d
 
 <!--
 <p align="center">
