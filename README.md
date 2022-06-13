@@ -98,9 +98,11 @@
  
  ##
  
-![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
- 
+<div align="center">
+  <a href="https://github.com/emersonpessoa01">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
  
  
  
