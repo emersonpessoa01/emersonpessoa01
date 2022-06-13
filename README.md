@@ -1,6 +1,6 @@
 <h2 align="center">Fala Devs! </h2>
 
-<img align="left" src="image/images/avatar01-removebg.png" height="120">
+<img align="left" src="image/images/avatar01-removebg.png" height="150">
 
 ⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
 💻 Redes de Computadores pela ESTÁCIO.<br>
@@ -26,17 +26,17 @@
 
 ##
 
-<div align="center">
+<div>
 <h3><b> Social:</h3></b>
-  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn"  height="40"  width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="https://t.me/emersonpessoa05_10_2008" target="_blank" target="_blank"><img alt="Link para e-mail"  height="40"  width="150" src="https://img.shields.io/badge/Telegram-013d7c?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn" height="30"  width="140" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail" height="30" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="30" width="140" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ <a href="https://t.me/emersonpessoa05_10_2008" target="_blank" target="_blank"><img alt="Link para e-mail" height="30"  width="150" src="https://img.shields.io/badge/Telegram-013d7c?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
  </div>
 
 ##
 
- <h3 align="center"> Contribuidores fake: </h3>
+ <h3> Contribuidores fake: </h3>
  
 [<img src="image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) 
 | :---: | :---: | :---: | 
@@ -68,7 +68,7 @@
 </details> -->
 ##
 
-<h3 align="center"><b> Linguagens e ferramentas:</h3></b>
+<h3><b> Linguagens e ferramentas:</h3></b>
 <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -100,14 +100,14 @@
  
 <div align="center">
   <a href="https://github.com/emersonpessoa01">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  
  
  <h3>Visualizações:</h3>
- <img align="right" src="image/images/avatar02-removebg.png" height="180">
+ <img align="right" src="image/images/avatar02-removebg.png" height="200">
  <p><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
  </p>
  
