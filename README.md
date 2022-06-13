@@ -100,12 +100,13 @@
  
 ![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
-<img align="right" src="image/images/avatar02-removebg.png" height="180"> 
  
  
  
- <h3 align="center">Visualizações:</h3>
- <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
+ 
+ <h3>Visualizações:</h3>
+ <img align="right" src="image/images/avatar02-removebg.png" height="180">
+ <p><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
  </p>
  
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
