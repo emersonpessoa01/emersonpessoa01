@@ -1,14 +1,14 @@
-<h2 align="center"> Fala Devs! </h2>
+<h2 align="center">Fala Devs! </h2>
 
-<img align="left" src="image/images/computer-illustration.png" height="80">
+<img align="left" src="image/images/avatar01-removebg.png" height="120">
 
 ⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
 💻 Redes de Computadores pela ESTÁCIO.<br>
-👨‍💻 Entusiasta em programação.<br>
-☕ Curto bastante café.<br>
+:books: Entusiasta em <b>programação</b>.<br>
+☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir filmes e séries.<br>
-🤘🏻  Gosto escutar rock e de bater um bom papo de diversos assuntos!!!<br>
-👨‍💻 Atualmente estou envolvido no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura.
+🤘🏻  Gosto escutar <b>rock</b> e de bater um bom papo de diversos assuntos!!!<br>
+👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>.
 
 <!--
 <p align="center">
@@ -36,7 +36,7 @@
 
 ##
 
- <h3 align="center"> Contributors fake: </h3>
+ <h3 align="center"> Contribuidores fake: </h3>
  
 [<img src="image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) 
 | :---: | :---: | :---: | 
@@ -68,7 +68,7 @@
 </details> -->
 ##
 
-<h3 align="center"><b> Language and Tools:</h3></b>
+<h3 align="center"><b> Linguagens e ferramentas:</h3></b>
 <p align="center">
 
 <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -98,13 +98,15 @@
  
  ##
  
-![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true) | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvanyCardim&layout=compact&langs_count=7&theme=tokyonight"/> | 
- | :---:| :---: |
+![emersonpessoa01 github stats](https://github-readme-stats.vercel.app/api?username=emersonpessoa01&theme=tokyonight&show_icons=true)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="right" src="image/images/avatar02-removebg.png" height="180"> 
  
- ##
  
- <h3 align="center">Views:</h3>
- <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" /></p>
+ 
+ <h3 align="center">Visualizações:</h3>
+ <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
+ </p>
  
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
  
