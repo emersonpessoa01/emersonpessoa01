@@ -7,7 +7,7 @@
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir filmes e séries.<br>
-🤘🏻  Gosto escutar <b>rock</b> e de bater um bom papo de diversos assuntos!!!<br>
+🤘🏻  Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>.
 
 <!--
@@ -104,8 +104,8 @@
  
 <div align="center">
   <a href="https://github.com/emersonpessoa01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  
