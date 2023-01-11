@@ -25,7 +25,6 @@
 </p> -->
 
 ##
-
 <div>
 <h3><b> Social:</h3></b>
   <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn" height="30"  width="140" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
