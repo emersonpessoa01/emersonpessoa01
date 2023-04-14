@@ -1,4 +1,4 @@
-<h2 align="center">Fala Devs!! </h2>
+<h2 align="center">Fala Devs! </h2>
 
 <img align="left" src="image/images/avatar01-removebg.png" height="140">
 
