@@ -92,6 +92,8 @@
 <img src="https://img.shields.io/badge/Insomnia-%235849be.svg?&style=for-the-badge&logo=Insomnia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-%23007298.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+ 
  <!--ESTILOS DE BADGES
 <img src="https://img.shields.io/badge/styledcomponents-%23ed9ac2.svg?&style=flat-square&logo=styledcomponents&logoColor=%23e10098"/>
  <img src="https://img.shields.io/badge/styledcomponents-%23ed9ac2.svg?&style=flat-logo&logo=styledcomponents&logoColor=%23e10098"/>
