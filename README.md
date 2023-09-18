@@ -1,6 +1,6 @@
 <h2 align="center">Fala Devs! </h2>
-
-<img align="left" src="image/images/avatar01-removebg.png" height="140" style="border:1px solid #fff;padding:6px">
+<kbd>
+<img align="left" src="image/images/avatar01-removebg.png" height="140"><kbd>
 
 ⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
 💻 Redes de Computadores pela ESTÁCIO.<br>
