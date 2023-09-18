@@ -121,8 +121,8 @@
 <!-- <img src="https://img.shields.io/badge/mongodb-%23e6e6e6.svg?&style=for-the-badge&logo=mongodb&logoColor=rgb(51,204,51) "/> -->
 <!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/linux-%2335495e.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/> -->
-<a href="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="logo-netlify" /></a>
+<!-- <a href="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="logo-netlify" /></a> -->
 <a href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="logo-vercel"/></a>
 <!-- <a href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku" target="_blank" rel="noopener noreferrer nofollow">
@@ -133,6 +133,13 @@
 <a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a>
 <img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,replit," />
+  </a>
+</p>
+
 <!-- <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <a href="https://img.shields.io/badge/Insomnia-%235849be.svg?&style=for-the-badge&logo=Insomnia&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Insomnia-%235849be.svg?&style=for-the-badge&logo=Insomnia&logoColor=white" alt="logo-insonia"/></a>
