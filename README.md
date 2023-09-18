@@ -1,13 +1,13 @@
 <h2 align="center">Fala Devs! </h2>
 <div>
-<kbd style="float:left; max-width:100%;">
+<kbd style="float:left; max-width:100%;margin: 0 20px 12px 0">
 <img src="image/images/avatar01-removebg.png" height="140"></kbd>
-⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
-💻 Redes de Computadores pela ESTÁCIO.<br>
-:books: Entusiasta em <b>programação</b>.<br>
-☕ Curto bastante <b>café</b>.<br>
-📽️ Gosto de assistir séries e filmes.<br>
-🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
+⚗️ Formado em Processos Químicos Industriais pela IFPA.
+💻 Redes de Computadores pela ESTÁCIO.
+:books: Entusiasta em <b>programação</b>.
+☕ Curto bastante <b>café</b>.
+📽️ Gosto de assistir séries e filmes.
+🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!
 </div>
 
 
