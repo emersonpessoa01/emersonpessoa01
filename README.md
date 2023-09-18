@@ -1,14 +1,14 @@
 <h2 align="center">Fala Devs! </h2>
 <div>
 <kbd style="float:left; max-width:100%; margin: 0 20px 12px 12px;">
-<img src="image/images/avatar01-removebg.png" height="140"></kbd><div>
+<img src="image/images/avatar01-removebg.png" height="140"></kbd>
 ⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
 💻 Redes de Computadores pela ESTÁCIO.<br>
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir séries e filmes.<br>
 🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
-</div></div>
+</div>
 
 
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
