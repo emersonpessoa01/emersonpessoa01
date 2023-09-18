@@ -96,7 +96,7 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" height="40" alt="logo-linux" style="max-width=100%"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="logo-github" style="max-width=100%; background: #DD0031; border-radius:8px"></a>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="logo-github" style="max-width=100%; background: #DD0031; border-radius:8px"></a> -->
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="40" alt="logo-figma" style="max-width=100%;"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" target="_blank" rel="noopener noreferrer nofollow">
@@ -127,8 +127,8 @@
 <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a>
 <a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a>
-<!-- <img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <a href="https://img.shields.io/badge/Insomnia-%235849be.svg?&style=for-the-badge&logo=Insomnia&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Insomnia-%235849be.svg?&style=for-the-badge&logo=Insomnia&logoColor=white" alt="logo-insonia"/></a>
 <a href="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
