@@ -134,7 +134,7 @@
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a>
 <img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-<p align="">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,replit," />
   </a>
