@@ -136,7 +136,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,replit," />
+    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,replit" />
   </a>
 </p>
 
