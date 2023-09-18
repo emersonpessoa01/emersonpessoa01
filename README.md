@@ -103,11 +103,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="40" alt="logo-figma" style="max-width=100%;"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="52" height="40" alt="logo-codepen" style="max-width=100%;background:#2a2e37; border-radius:8px;"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="52" height="40" alt="logo-markdown" style="max-width=100%;background:#2a2e37; border-radius:8px;"></a>
+<!-- <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="52" height="40" alt="logo-markdown" style="max-width=100%;background:#2a2e37; border-radius:8px;"></a> -->
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="52" height="40" alt="logo-markdown" style="max-width=100%;background:#2a2e37; border-radius:8px;"></a>
+<!-- <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="52" height="40" alt="logo-markdown" style="max-width=100%;background:#2a2e37; border-radius:8px;"></a> -->
 
 <!-- <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> -->
@@ -136,7 +136,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,replit" />
+    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,heroku,replit" />
   </a>
 </p>
 
