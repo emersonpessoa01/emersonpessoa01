@@ -81,6 +81,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="52" height="40" alt="logo-sass" style="max-width=100%"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="logo-javascript" style="max-width=100%"></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="40" alt="logo-typescript" style="max-width=100%"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" height="40" alt="logo-nodejs" style="max-width=100%"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" target="_blank" rel="noopener noreferrer nofollow">
