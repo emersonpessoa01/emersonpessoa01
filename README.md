@@ -2,12 +2,12 @@
 <div>
 <kbd style="float:left; max-width:100%;margin: 0 20px 12px 0">
 <img src="image/images/avatar01-removebg.png" height="140"></kbd>
-⚗️ Formado em Processos Químicos Industriais pela IFPA.
+<p>⚗️ Formado em Processos Químicos Industriais pela IFPA.
 💻 Redes de Computadores pela ESTÁCIO.
 :books: Entusiasta em <b>programação</b>.
 ☕ Curto bastante <b>café</b>.
 📽️ Gosto de assistir séries e filmes.
-🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!
+🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!</p>
 </div>
 
 
