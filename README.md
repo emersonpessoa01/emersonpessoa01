@@ -1,5 +1,5 @@
-<h2 align="center">Fala Devs! </h2>
-<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7783C&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Desenvolvedores+Web%2C+FullStack;Mobile+e+Analistas+de+Sistemas!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7783C&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Desenvolvedores+Web%2C+FullStack;Mobile+e+Analistas+de+Sistemas!" style="max-width: 100%;"></a>
+<h2 align="center"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7783C&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Desenvolvedores+Web%2C+FullStack;Mobile+e+Analistas+de+Sistemas!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7783C&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Desenvolvedores+Web%2C+FullStack;Mobile+e+Analistas+de+Sistemas!" style="max-width: 100%;"></a></h2>
+
 <div>
 <img align="left" src="image/images/avatar01-removebg.png" height="140">
 
