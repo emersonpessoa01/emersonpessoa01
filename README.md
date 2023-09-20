@@ -1,4 +1,5 @@
 <h2 align="center">Fala Devs! </h2>
+<a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/ec667fb3ebc539c6e789291133d01579b3291433133ff1c32411260345de2581/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f636f6c6f723d4646384330302673697a653d34302663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d42656d2b76696e646f73212b57656c636f6d65213b46756c6c2b537461636b2b446576656c6f7065723b2b53797374656d732b416e616c797369732b616e642b446576656c6f706d656e742b53747564656e74" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=FF8C00&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Fala!+Devs!;Full+Stack+Desenvolvedores Web;+Analistas+de+Sistemas+e+Estudentes" style="max-width: 100%;"></a>
 <div>
 <img align="left" src="image/images/avatar01-removebg.png" height="140">
 
