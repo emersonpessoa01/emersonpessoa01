@@ -4,8 +4,8 @@
 <div>
 <img align="left" src="image/images/avatar01-removebg.png" height="140">
 
-⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
-💻 Redes de Computadores pela ESTÁCIO.<br>
+⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir séries e filmes.<br>
