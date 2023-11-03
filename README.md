@@ -10,7 +10,8 @@
 🌞Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
 🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
 </div>
-
+<br>
+<br>
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
 
 <!--
