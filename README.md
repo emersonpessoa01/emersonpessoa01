@@ -1,13 +1,15 @@
 
 
-<img align="left" src="image/images/avatar01-removebg.png" height="180">
-
-⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+<img align="left" src="https://emresitesweb.com.br/wp-content/uploads/2023/11/avatar01-removebg.png"  height="200">
+<div>
+  ⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
 💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir séries e filmes.<br>
+🌞Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
 🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
+</div>
 
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
 
