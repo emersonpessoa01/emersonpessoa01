@@ -1,13 +1,11 @@
-<h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
-<div align="center"><img height="70px" src="https://flagsapi.com/BR/shiny/64.png"></div>
-
 <div>
-<img src="https://emresitesweb.com.br/wp-content/uploads/2023/11/avatar01-removebg.png"  height="200">
+<img align="left" src="image/images/avatar01-removebg.png" height="180">
 
+⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir séries e filmes.<br>
-🌞Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
 🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
 
 ##
@@ -22,7 +20,7 @@
 
  <h3> Contribuidores fake: </h3>
  
-[<img src="image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="image/images/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01)
+[<img src="https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="https://emresitesweb.com.br/wp-content/uploads/2023/11/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="https://emresitesweb.com.br/wp-content/uploads/2023/11/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="https://emresitesweb.com.br/wp-content/uploads/2023/11/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="https://emresitesweb.com.br/wp-content/uploads/2023/11/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01)
 | :---: | :---: | :---: | :--: | :--: |
 
 ##

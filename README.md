@@ -1,5 +1,5 @@
 
-<div>
+
 <img align="left" src="image/images/avatar01-removebg.png" height="180">
 
 ⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
