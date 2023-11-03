@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 <h2 align="center">Fala Devs! </h2>
 <div>
 <img src="https://github.com/emersonpessoa01/avatar-emerson/blob/main/image/avatar01-removebg.png" height="140">
+=======
+<h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
+<div align="center"><img height="70px" src="https://flagsapi.com/BR/shiny/64.png"></div>
+>>>>>>> 1a2b4ee8215a739dffa1d1ef06869887da057f0f
 
-⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
-💻 Redes de Computadores pela ESTÁCIO.<br>
+<div>
+<img align="left" src="image/images/avatar01-removebg.png" height="250">
+
+⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir séries e filmes.<br>
@@ -160,10 +168,10 @@
  
  ##
  
-<div align="center">
+<div>
   <a href="https://github.com/emersonpessoa01">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="220rem"  src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
+  <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=14&theme=tokyonight&border_radius=8"/>
 </div>
  
  
