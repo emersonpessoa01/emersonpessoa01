@@ -1,9 +1,9 @@
-<h2 align="center">Fala Devs! </h2>
-<div>
-<img src="./image/images/avatar01-removebg.png" height="140">
 
-⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
-💻 Redes de Computadores pela ESTÁCIO.<br>
+<div>
+<img align="left" src="image/images/avatar01-removebg.png" height="250">
+
+⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
 📽️ Gosto de assistir séries e filmes.<br>
@@ -160,10 +160,10 @@
  
  ##
  
-<div align="center">
+<div>
   <a href="https://github.com/emersonpessoa01">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="220rem"  src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
+  <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=14&theme=tokyonight&border_radius=8"/>
 </div>
  
  
