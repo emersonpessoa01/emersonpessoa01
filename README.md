@@ -1,6 +1,6 @@
 <h2 align="center">Fala Devs! </h2>
 <div>
-<img src="https://github.com/emersonpessoa01/avatar-emerson/blob/main/image/avatar01-removebg.png" height="140">
+<img src="./image/images/avatar01-removebg.png" height="140">
 
 ⚗️ Formado em Processos Químicos Industriais pela IFPA.<br>
 💻 Redes de Computadores pela ESTÁCIO.<br>
