@@ -63,20 +63,10 @@
 
 <a href="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" alt="logo-styled components"/></a>
-<!-- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
-<!-- <img src="https://img.shields.io/badge/nodejs%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/reactjs%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/mongodb-%23e6e6e6.svg?&style=for-the-badge&logo=mongodb&logoColor=rgb(51,204,51) "/> -->
-<!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/linux-%2335495e.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/> -->
-<!-- <a href="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="logo-netlify" /></a> -->
+
 <a href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="logo-vercel"/></a>
-<!-- <a href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku"/></a> -->
-<!-- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"> -->
+
 <a href="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a>
 <a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
@@ -96,22 +86,9 @@
   <img height="220rem"  src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
   <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=14&theme=tokyonight&border_radius=8"/>
 </div>
- 
- 
- 
 
+### 📌 Projetos em Destaque
 
-<!--
-**emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
+[![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
+[![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
