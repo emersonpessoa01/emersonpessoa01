@@ -1,6 +1,6 @@
 
 <div>
-<img align="left" src="image/images/avatar01-removebg.png" height="250">
+<img align="left" src="image/images/avatar01-removebg.png" height="180">
 
 ⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
 💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
