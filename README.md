@@ -174,7 +174,7 @@
  
  
  
- <h3>Visualizações:</h3>
+ <h3>🚀 Visualizações:</h3>
  <img align="right" src="image/images/avatar02-removebg.png" height="200">
  <p><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
  </p>
