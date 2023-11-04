@@ -161,8 +161,6 @@
  
  </p>
  
- ##
- 
 <div>
   <a href="https://github.com/emersonpessoa01">
   <img height="220rem"  src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
@@ -178,7 +176,17 @@
  
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
  
- 
+<br>
+
+##
+
+### 📌 Projetos em Destaque
+
+[![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
+[![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
+[![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
+[![alura-plus](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=alura-plus-responsive)](https://github.com/emersonpessoa01/alura-plus-responsive)
+
 
 
 <!--
