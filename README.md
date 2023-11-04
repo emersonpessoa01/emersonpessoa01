@@ -161,6 +161,10 @@
 -->
  
  </p>
+
+ ##
+
+ ### 📊 Estatísticas no GitHub
  
 <div>
   <a href="https://github.com/emersonpessoa01">
