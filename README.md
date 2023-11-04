@@ -1,5 +1,3 @@
-
-
 <img align="left" src="https://emresitesweb.com.br/wp-content/uploads/2023/11/avatar01-removebg.png"  height="200">
 <div>
   ⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
@@ -75,7 +73,6 @@
 <h3><b> Linguagens e ferramentas:</h3></b>
 <p align="center">
 
-
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="logo-html" style="max-width=100%"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank" rel="noopener noreferrer nofollow">
@@ -135,12 +132,11 @@
 <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a>
 <a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a>
-<!-- <a href="https://img.shields.io/badge/Github-DD1200?style=for-the-badge&logo=Github&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Github-%23DD0031.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,heroku,replit,github,git,markdown" />
+    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,heroku,replit" />
   </a>
 </p>
 
@@ -152,19 +148,14 @@
 <!-- <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/wordpress-%23007298.svg?style=for-the-badge&logo=wordpress&logoColor=white"> -->
 
- 
  <!--ESTILOS DE BADGES
 <img src="https://img.shields.io/badge/styledcomponents-%23ed9ac2.svg?&style=flat-square&logo=styledcomponents&logoColor=%23e10098"/>
  <img src="https://img.shields.io/badge/styledcomponents-%23ed9ac2.svg?&style=flat-logo&logo=styledcomponents&logoColor=%23e10098"/>
  <img src="https://img.shields.io/badge/Styled Components-%23ed9ac2.svg?&style=plastic-logo&logo=styledcomponents&logoColor=%23e10098"/>
  <img src="https://img.shields.io/badge/Styled Components-%23ed9ac2.svg?&style=social-logo&logo=styledcomponents&logoColor=%23e10098"/>
 -->
- 
+
  </p>
-
- ##
-
- ### 📊 Estatísticas no GitHub
  
 <div>
   <a href="https://github.com/emersonpessoa01">
@@ -174,13 +165,17 @@
  
  
  
- <h3>🚀 Visualizações:</h3>
- <img align="right" src="image/images/avatar02-removebg.png" height="200">
- <p><img alingn="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
- </p>
+ <h3>Visualizações:</h3>
+ <div style="display:flex; flex-flow: column wrap;align-items:center; justify-content:space-between">
+ 
+ <img align="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
+ <img align="right" src="image/images/avatar02-removebg.png" width="210rem" height="180rem">
+</div>
  
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
  
+<br>
+<br>
 <br>
 
 ##
@@ -191,8 +186,6 @@
 [![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
 [![alura-plus](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=alura-plus-responsive)](https://github.com/emersonpessoa01/alura-plus-responsive)
-
-
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
