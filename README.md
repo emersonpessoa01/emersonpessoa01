@@ -132,7 +132,8 @@
 <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a>
 <a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a>
-<img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://img.shields.io/badge/Github-DD0031?style=for-the-badge&logo=Github&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Github-DD0031?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <p align="center">
   <a href="https://skillicons.dev">
