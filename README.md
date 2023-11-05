@@ -187,6 +187,13 @@
 
 ##
 
+### 🏆 Troféus
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=2&no-bg=true&column=3&margin-w=158&margin-h=15">
+</p>
+
+##
+
 ### 📌 Projetos em Destaque
 
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
