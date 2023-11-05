@@ -171,16 +171,18 @@
  
  ##
  
- <h3>Visualizações:</h3>
+ <h3> 🥇 Visualizações:</h3>
  <div>
  <img align="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
 <!--  <img align="right" src="image/images/avatar02-removebg.png" width="180"> -->
 </div>
  
  <!--![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)-->
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/emersonpessoa01/github-readme-activity-graph)
+ 
+### 🚀 Contribuições
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/emersonpessoa01/github-readme-activity-graph)
 
-##
+
 
 ### 📌 Projetos em Destaque
 
