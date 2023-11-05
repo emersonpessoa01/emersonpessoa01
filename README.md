@@ -166,9 +166,8 @@
  
  
  <h3>Visualizações:</h3>
- <div style="display:flex; flex-flow: column wrap;align-items:center; justify-content:space-between">
- 
- <img align="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
+ <div>
+ <img align="left" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
  <img align="right" src="image/images/avatar02-removebg.png" width="210rem" height="180rem">
 </div>
  
