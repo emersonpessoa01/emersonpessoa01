@@ -174,8 +174,6 @@
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
  
 <br>
-<br>
-<br>
 
 ##
 
