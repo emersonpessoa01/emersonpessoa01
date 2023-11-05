@@ -169,17 +169,16 @@
   <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=14&theme=tokyonight&border_radius=8"/>
 </div>
  
- 
+ ##
  
  <h3>Visualizações:</h3>
  <div>
  <img align="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
- <img align="right" src="image/images/avatar02-removebg.png" width="180">
+<!--  <img align="right" src="image/images/avatar02-removebg.png" width="180"> -->
 </div>
  
- ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
- 
-<br>
+ <!--![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)-->
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/emersonpessoa01/github-readme-activity-graph)
 
 ##
 
