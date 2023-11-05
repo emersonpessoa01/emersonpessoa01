@@ -132,8 +132,7 @@
 <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a>
 <a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a>
-<a href="https://img.shields.io/badge/Github-DD0031?style=for-the-badge&logo=Github&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Github-DD0031?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -168,8 +167,8 @@
  
  <h3>Visualizações:</h3>
  <div>
- <img align="left" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
- <img align="right" src="image/images/avatar02-removebg.png" width="210rem" height="180rem">
+ <img align="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
+ <img align="right" src="image/images/avatar02-removebg.png" width="180">
 </div>
  
  ![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)
