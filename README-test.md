@@ -1,4 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Emerson%20Pessoa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 <div>
+
+<h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
+
 <img align="left" src="image/images/avatar01-removebg.png" height="180">
 
 ⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
@@ -85,8 +89,20 @@
   <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=14&theme=tokyonight&border_radius=8"/>
 </div>
 
+##
+ 
+### 🚀 Contribuições
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
 ### 📌 Projetos em Destaque
 
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
 [![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
+
+##
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<div>
