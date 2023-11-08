@@ -203,7 +203,7 @@
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=Thanks!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
