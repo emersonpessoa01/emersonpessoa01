@@ -3,7 +3,7 @@
 <h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
 <div align="center"><img height="70px" src="https://flagsapi.com/BR/shiny/64.png"></div>
 
-<img align="left" src="image/images/amy-lee-coder.gif"  height="180">
+<img align="left" src="image/images/amy-lee-coder.gif"  height="250">
 <br>
   ⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
 💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
