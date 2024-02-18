@@ -201,6 +201,7 @@
 [![alura-plus](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=alura-plus-responsive)](https://github.com/emersonpessoa01/alura-plus-responsive)
 [![desafio-labenu](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=desafio-labenu)](https://github.com/emersonpessoa01/desafio-labenu)
 [![clima-js](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=clima-js)](https://github.com/emersonpessoa01/clima-js)
+[![cineflix-clone](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=cineflix-clone)](https://github.com/emersonpessoa01/cineflix-clone)
 ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=footer&text=Thank%20´s&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
