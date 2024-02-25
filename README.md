@@ -76,7 +76,7 @@
 
 ##
 
-<h3><b> Linguagens e ferramentas:</h3></b>
+<h3><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"><b> Linguagens e ferramentas:</h3></b>
 <p align="center">
 
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" rel="noopener noreferrer nofollow">
@@ -194,8 +194,8 @@
 
 ##
 
-### 📌 Projetos em Destaque
-
+<!--### 📌 Projetos em Destaque-->
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;">  Projetos em Destaque
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
 [![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
