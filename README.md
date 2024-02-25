@@ -188,7 +188,7 @@
 
 ### 🏆 Troféus
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=2&no-bg=true&column=3&margin-w=158&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=2&no-bg=true&column=5&margin-w=158&margin-h=10">
 </p>
 
 ##
