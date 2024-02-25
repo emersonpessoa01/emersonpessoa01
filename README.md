@@ -15,6 +15,7 @@
 </div>
 <br>
 <br>
+<img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" max-width="1200px" width="100%" height="30px">
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
 
 <!--
@@ -31,7 +32,7 @@
 <p align="center"><img src="https://enjw1gahotouswk.m.pipedream.net" /></p>
 </p> -->
 
-##
+<!--##-->
 
 <div>
 <h3><b> Social:</h3></b>
