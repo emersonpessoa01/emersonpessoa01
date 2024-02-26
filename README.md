@@ -4,8 +4,8 @@
 <div align="center"><img height="70px" src="https://flagsapi.com/BR/shiny/64.png"></div>
 
 <img align="left" src="image/images/amy-lee-coding06-round.gif" height="250">
-<br>
-<br>
+
+
 ⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
 💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
@@ -14,8 +14,9 @@
 🌞Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
 🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
 </div>
-<br>
-<br>
+
+
+
 <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" max-width="1200px" width="100%" height="40px">
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
 
