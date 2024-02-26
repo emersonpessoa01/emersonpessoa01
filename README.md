@@ -5,14 +5,13 @@
 
 <img align="left" src="image/images/amy-lee-coding06-round.gif" height="250"/>
 
-<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1>
-⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
-💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
+⚗️&nbsp; Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+💻&nbsp; Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
-☕ Curto bastante <b>café</b>.<br>
-📽️ Gosto de assistir séries e filmes.<br>
-🌞Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
-🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
+☕&nbsp; Curto bastante <b>café</b>.<br>
+📽️&nbsp; Gosto de assistir séries e filmes.<br>
+🌞&nbsp;Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
+🤘🏻&nbsp; Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
 </div>
 
 
