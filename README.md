@@ -5,13 +5,13 @@
 
 <img align="left" src="image/images/AmyLee-programmer01-rounded.gif" height="220"/>
 
-<p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
-<p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
-<p>:books: Entusiasta em <b>programação</b>.</p>
-<p>☕ Curto bastante <b>café</b>.</p>
-<p>📽️ Gosto de assistir séries e filmes.</p>
-<p>🌞 Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.</p>
-<p>🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!</p>
+</><p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
+</><p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
+</><p>:books: Entusiasta em <b>programação</b>.</p>
+</><p>☕ Curto bastante <b>café</b>.</p>
+</><p>📽️ Gosto de assistir séries e filmes.</p>
+</><p>🌞 Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.</p>
+</><p>🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!</p>
 
 </div>
 
