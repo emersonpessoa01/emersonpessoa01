@@ -5,15 +5,15 @@
 
 <img align="left" src="image/images/AmyLee-programmer01-rounded.gif" height="220"/>
 
-</>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
-</>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
-</>:books: Entusiasta em <b>programação</b>.<br>
-</>☕ Curto bastante <b>café</b>.<br>
-</>📽️ Gosto de assistir séries e filmes.<br>
-</>🌞 Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
-</>🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!<br>
-</div>
+<p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
+<p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
+<p>:books: Entusiasta em <b>programação</b>.</p>
+<p>☕ Curto bastante <b>café</b>.</p>
+<p>📽️ Gosto de assistir séries e filmes.</p>
+<p>🌞 Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.</p>
+<p>🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!</p>
 
+</div>
 
 <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" max-width="1200px" width="100%" height="40px">
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
@@ -163,7 +163,6 @@
 
  </p>
 
- 
 <div>
   <a href="https://github.com/emersonpessoa01">
   <img height="220rem"  src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
@@ -181,15 +180,17 @@
  <!--![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)-->
 
 ##
- 
+
 ### 🚀 Contribuições
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
 <!-- ### 🏆 Troféus -->
 
-### <img src="./image/gifs/troféu.gif" width="30px" height="30px"/> Troféus 
+### <img src="./image/gifs/troféu.gif" width="30px" height="30px"/> Troféus
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=2&no-bg=true&column=5&margin-w=158&margin-h=10">
 </p>
@@ -197,7 +198,9 @@
 ##
 
 <!--### 📌 Projetos em Destaque-->
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;">  Projetos em Destaque
+
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;"> Projetos em Destaque
+
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
 [![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
@@ -205,6 +208,7 @@
 [![desafio-labenu](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=desafio-labenu)](https://github.com/emersonpessoa01/desafio-labenu)
 [![clima-js](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=clima-js)](https://github.com/emersonpessoa01/clima-js)
 [![cineflix-clone](https://github-readme-stats.vercel.app/api/pin?username=emersonpessoa01&repo=cineflix-clone)](https://github.com/emersonpessoa01/cineflix-clone)
+
 ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Emerson%20Pessoa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
