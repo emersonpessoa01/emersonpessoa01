@@ -188,13 +188,18 @@
 
 ##
 
-<!-- ### 🏆 Troféus -->
+### 🏆 Troféus
 
-### <img src="./image/gifs/troféu.gif" width="30px" height="30px"/> Troféus
+<!--### <img src="./image/gifs/troféu.gif" width="30px" height="30px"/> Troféus-->
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=2&no-bg=true&column=5&margin-w=158&margin-h=10">
 </p>
+-->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=1&no-bg=true&column=7&margin-w=15&margin-h=15">
+</p>
+
 
 ##
 
