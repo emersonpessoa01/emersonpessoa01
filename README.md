@@ -2,8 +2,13 @@
 
 <h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
 <div align="center"><img height="70px" src="https://flagsapi.com/BR/shiny/64.png"></div>
-
-<img align="left" src="image/images/amy-lee-coder-round.gif" width="380" height="auto" style="margin:10"/>
+<style type="text/css">
+animated-image[data-catalyst] {
+  display: inline-block;
+  margin: 1rem;
+}
+</style>
+<img align="left" src="image/images/amy-lee-coder-round.gif" width="380" height="auto" style="margin:10px"/>
 
 <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
 <p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
@@ -182,6 +187,7 @@
 ##
 
 <!-- ### 🚀 Contribuições -->
+
 ### <img src="./image/gifs/animated-flame-01.gif" width="30px" height="30px"/> Contribuições
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
