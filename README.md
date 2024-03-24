@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Emerson%20Pessoa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer nofollow"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
 <div align="center"><img height="70px" src="https://flagsapi.com/BR/shiny/64.png"></div>
 <style type="text/css">
 animated-image[data-catalyst] {
@@ -194,13 +194,18 @@ animated-image[data-catalyst] {
 
 ##
 
-<!-- ### 🏆 Troféus -->
+### 🏆 Troféus
 
-### <img src="./image/gifs/troféu.gif" width="30px" height="30px"/> Troféus
+<!--### <img src="./image/gifs/troféu.gif" width="30px" height="30px"/> Troféus-->
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=2&no-bg=true&column=5&margin-w=158&margin-h=10">
 </p>
+-->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=1&no-bg=true&column=7&margin-w=15&margin-h=15">
+</p>
+
 
 ##
 
