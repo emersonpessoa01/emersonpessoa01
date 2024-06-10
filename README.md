@@ -2,7 +2,6 @@
 
 <h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
 
-
 <img align="left" src="image/gifs/Ahsoka_vs_Maul.gif" width="380" height="auto" style="margin:10px"/>
 
 <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
@@ -77,36 +76,22 @@
 ##
 
 <h3><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"><b> Linguagens e ferramentas:</h3></b>
-<p align="center">
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="logo-html" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="logo-css" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="52" height="40" alt="logo-sass" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="logo-javascript" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="40" alt="logo-typescript" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" height="40" alt="logo-nodejs" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="logo-reactjs" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="52" height="40" alt="logo-angular" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="52" height="40" alt="logo-mongobd" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="logo-mysql" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="52" height="40" alt="logo-wordpress" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" height="40" alt="logo-linux" style="max-width=100%"></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="logo-github" style="max-width=100%; background: #DD0031; border-radius:8px"></a> -->
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="40" alt="logo-figma" style="max-width=100%;"></a>
+<p dir="auto">
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="logo-html" style="max-width=100%"></a></code>
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="logo-css" style="max-width=100%"></a></code>
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="52" height="40" alt="logo-sass" style="max-width=100%"></a></code>
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="logo-javascript" style="max-width=100%"></a></code><code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="40" alt="logo-typescript" style="max-width=100%"></a></code><code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" height="40" alt="logo-nodejs" style="max-width=100%"></a></code>
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="logo-reactjs" style="max-width=100%"></a></code><code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="52" height="40" alt="logo-angular" style="max-width=100%"></a></code>
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="52" height="40" alt="logo-mongobd" style="max-width=100%"></a></code>
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="logo-mysql" style="max-width=100%"></a></code>
+<code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="52" height="40" alt="logo-wordpress" style="max-width=100%"></a></code><code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52" height="40" alt="logo-linux" style="max-width=100%"></a></code><code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="logo-github" style="max-width=100%; background: #DD0031; border-radius:8px"></a></code><code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="40" alt="logo-figma" style="max-width=100%;"></a></code>
+
+
+<code><a href="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" alt="logo-styled components"/></a></code><code><a href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="logo-vercel"/></a></code><code><a href="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a></code>
+<code><a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a></code>
+<code><a href="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white" alt="logo-github"></a></code>
+
 <!--<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="52" height="40" alt="logo-codepen" style="max-width=100%;background:#2a2e37; border-radius:8px;"></a>-->
 <!-- <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" target="_blank" rel="noopener noreferrer nofollow">
@@ -118,8 +103,7 @@
 <!-- <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> -->
-<a href="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" alt="logo-styled components"/></a>
+
 <!-- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
 <!-- <img src="https://img.shields.io/badge/nodejs%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/reactjs%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/> -->
@@ -129,18 +113,13 @@
 <!-- <img src="https://img.shields.io/badge/linux-%2335495e.svg?&style=for-the-badge&logo=linux&logoColor=yellow"/> -->
 <!-- <a href="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="logo-netlify" /></a> -->
-<a href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="logo-vercel"/></a>
+
 <!-- <a href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"> -->
-<a href="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a>
-<a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a>
-<img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-<p align="center">
+
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,heroku,replit" />
   </a>
@@ -200,7 +179,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=emersonpessoa01&theme=dracula&row=1&no-bg=true&column=7&margin-w=15&margin-h=15">
 </p>
-
 
 ##
 
