@@ -122,9 +122,15 @@
 
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,heroku,replit" />
-  </a>
+  <code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a></code>
+  <code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" /></a></code>
+  <code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" /></a></code>
+  <code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=netlify" /></a></code>
+  <code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=heroku" /></a></code>
+
+  <!-- <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,vite,netlify,vercel,heroku,replit" />
+    </a> -->
 </p>
 
 <!-- <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
