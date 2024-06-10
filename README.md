@@ -4,7 +4,7 @@
 
 <img align="left" src="image/gifs/Ahsoka_vs_Maul.gif" width="380" height="auto"/>
 
-<div style="margin-left:10px">
+<div>&nbsp;&nbsp;</div>
   <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
   <p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
   <p>:books: Entusiasta em <b>programação</b>.</p>
@@ -12,8 +12,6 @@
   <p>📽️ Gosto de assistir séries e filmes.</p>
   <p>🌞 Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.</p>
   <p>🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!</p>
-</div>
-
 
 <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" max-width="1200px" width="100%" height="40px">
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
@@ -90,7 +88,6 @@
 
 <!-- <code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="logo-github" style="max-width=100%; background: #DD0031; border-radius:8px"></a></code> -->
 
-
 <code><a href="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" alt="logo-styled components"/></a></code><code><a href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="logo-vercel"/></a></code><code><a href="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a></code>
 <code><a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a></code>
 <code><a href="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/github-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white" alt="logo-github"></a></code>
@@ -120,7 +117,6 @@
 <!-- <a href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"> -->
-
 
 <p>
   <code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a></code>
