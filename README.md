@@ -4,7 +4,7 @@
 
 <img align="left" src="image/gifs/Ahsoka_vs_Maul.gif" width="380" height="auto"/>
 
-<div>&nbsp;&nbsp;</div>
+<div float="inline-start">&nbsp;&nbsp;</div>
   <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
   <p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
   <p>:books: Entusiasta em <b>programação</b>.</p>
