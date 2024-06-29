@@ -4,13 +4,15 @@
 
 <img align="left" src="image/gifs/Ahsoka_vs_Maul.gif" width="380" height="auto" style="margin:10px"/>
 
-<p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.</p>
-<p>💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.</p>
-<p>:books: Entusiasta em <b>programação</b>.</p>
-<p>☕ Curto bastante <b>café</b>.</p>
-<p>📽️ Gosto de assistir séries e filmes.</p>
-<p>🌞 Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.</p>
-<p>🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!!</p>
+<p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
+:books: Entusiasta em <b>programação</b>.<br>
+☕ Curto bastante <b>café</b>.<br>
+📽️ Gosto de assistir séries e filmes.<br>
+🌞 Gosto de criar sites bacanas e funcionais sempre visando a experiência do usuário.<br>
+🤘🏻 Gosto de escutar <b>rock</b> e de bater um bom papo sobre diversos assuntos!!! Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Atirei o pau no gatis, per gatis num morreus. Copo furadis é disculpa de bebadis, arcu quam euismod magna. Si num tem leite então bota uma pinga aí cumpadi!
+Diuretics paradis num copo é motivis de denguis. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Casamentiss faiz malandris se pirulitá.
+A ordem dos tratores não altera o pão duris. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Per aumento de cachacis, eu reclamis. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis.
 
 <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" max-width="1200px" width="100%" height="40px">
 <!-- 👨‍💻 Atualmente estou envolvido no <b>Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura</b>. -->
