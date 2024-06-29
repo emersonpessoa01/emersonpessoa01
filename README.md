@@ -151,7 +151,7 @@
 <div>
   <a href="https://github.com/emersonpessoa01">
   <img height="220rem"  src="https://github-readme-stats.vercel.app/api?username=emersonpessoa01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8"/>
-  <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=14&theme=tokyonight&border_radius=8"/>
+  <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonpessoa01&layout=compact&langs_count=16&theme=tokyonight&border_radius=8"/>
 </div>
  
  ##
