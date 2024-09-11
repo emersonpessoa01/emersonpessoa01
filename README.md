@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3779cf&height=180&section=header&text=Emerson%20Pessoa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1600&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1600&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&height=100&duration=1650&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&duration=1650&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2>
 
 <img align="left" src="image/gifs/Ahsoka_vs_Maul.gif" width="380" height="auto" style="margin:10px"/>
 
@@ -64,7 +64,7 @@
 
 <div>
 <h3><b> Social:</h3></b>
-  <a href="https://www.linkedin.com/in/emersonpessoa" target="_blank"><img alt="Link para LinkedIn" height="30"  width="140" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/emersonpessoa01" target="_blank"><img alt="Link para LinkedIn" height="30"  width="140" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail" height="30" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- <a href="https://api.whatsapp.com/send?phone=+5591989412049&text=Fala%20Dev!!!%20Deixe%20seu%20recado!" target="_blank"><img alt="Link para e-mail"  height="30" width="140" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> -->
  <!-- <a href="https://t.me/emersonpessoa05_10_2008" target="_blank" target="_blank"><img alt="Link para e-mail" height="30"  width="150" src="https://img.shields.io/badge/Telegram-013d7c?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
@@ -228,10 +228,11 @@
 [![desafio-labenu](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=desafio-labenu)](https://github.com/emersonpessoa01/desafio-labenu)
 [![clima-js](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=clima-js)](https://github.com/emersonpessoa01/clima-js)
 [![cineflix-clone](https://github-readme-stats.vercel.app/api/pin?username=emersonpessoa01&repo=cineflix-clone)](https://github.com/emersonpessoa01/cineflix-clone)
+[![site-cafe](https://github-readme-stats.vercel.app/api/pin?username=emersonpessoa01&repo=site-cafe)](https://github.com/emersonpessoa01/site-cafe)
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3779cf&height=180&section=header&text=Thank`s&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3779cf&height=180&section=footer&text=Thank`s&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
