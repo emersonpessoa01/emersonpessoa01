@@ -6,7 +6,7 @@
 
 <img align="left" src="image/images/amy-lee-coder-round.gif" width="450" height="auto" style="margin:10px"/>
 
-<p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Pará.<br>
+<p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Estado do Pará.<br>
 💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
 :books: Entusiasta em <b>programação</b>.<br>
 ☕ Curto bastante <b>café</b>.<br>
