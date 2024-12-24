@@ -4,7 +4,7 @@
 
 <!-- <img align="left" src="image/gifs/Ahsoka_vs_Maul.gif" width="380" height="auto" style="margin:10px"/> -->
 
-<img align="left" src="./image/images/AmyLee-programmer02.gif" width="300" height="auto" style="margin:10px"/>
+<img align="left" src="./image/images/AmyLee-programmer02.gif" width="320" height="auto" style="margin:10px"/>
 
 <p>⚗️ Formado em Processos Químicos Industriais pela IFPA-Instituto Federal do Estado do Pará.<br>
 💻 Redes de Computadores pela FAP-Faculdade do Estado do Pará.<br>
