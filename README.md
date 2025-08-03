@@ -35,13 +35,9 @@
 
 <!--##-->
 
-<div>
-<p align="left">
-  <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
-  <img src="./image/gifs/social.gif"style="width:5%">
-     Social:
-  </span>
-</p>
+
+<img src="./image/gifs/social.gif" style="width:20px; vertical-align:middle;"> Social:
+
   <a href="https://www.linkedin.com/in/emersonpessoa01" target="_blank"><img alt="Link para LinkedIn" title="Link para LinkedIn" height="30"  width="140" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail" title="Link para e-mail" height="30" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--<a href="" target="_blank"><img alt="Link para Discord" title="Link para Discord" height="30" width="140" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white"</a>-->
