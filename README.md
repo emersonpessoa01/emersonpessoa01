@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3779cf&height=180&section=header&text=Emerson%20Pessoa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- <h2 align="center"><a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&height=100&duration=1800&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!+:);Web+Developers...;Mobile+Developers...;FullStack...;Systems+Analysts...;...and students!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=1800&pause=1000&color=DD0031&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;"></a></h2> -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&height=100&duration=4500&pause=1000&color=DD0031&width=750&lines=Fala+Devs!+Sejam+bem-vindos!" alt="Typing SVG" /></a>
 
 <!-- <img align="left" src="image/gifs/Ahsoka_vs_Maul.gif" width="380" height="auto" style="margin:10px"/> -->
@@ -35,7 +36,12 @@
 <!--##-->
 
 <div>
-<h3><b> Social:</h3></b>
+<p align="left">
+  <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
+  <img src="./image/gifs/social.gif"style="width:5%">
+     Social:
+  </span>
+</p>
   <a href="https://www.linkedin.com/in/emersonpessoa01" target="_blank"><img alt="Link para LinkedIn" title="Link para LinkedIn" height="30"  width="140" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emersonpessoa011108@gmail.com"><img alt="Link para e-mail" title="Link para e-mail" height="30" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--<a href="" target="_blank"><img alt="Link para Discord" title="Link para Discord" height="30" width="140" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white"</a>-->
@@ -43,12 +49,15 @@
  <!-- <a href="https://t.me/emersonpessoa05_10_2008" target="_blank" target="_blank"><img alt="Link para e-mail" height="30"  width="150" src="https://img.shields.io/badge/Telegram-013d7c?style=for-the-badge&logo=Telegram&logoColor=white" target="_blank"></a>
  </div> -->
 
-##
+### <p align="center">
 
- <h3> Contribuidores fake: </h3>
- 
-[<img src="image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="image/images/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01)
-| :---: | :---: | :---: | :--: | :--: |
+  <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
+    <img src="./image/gifs/animated-flame-01.gif" width="30px" height="30px"/> Contribuidores fake:
+  </span>
+</p>
+
+| [<img src="image/images/gitironman01.png" width=115  heigth=120 ><br><sub> Git Ironman </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/gitcode02.png" width=115  heigth=120 ><br><sub> Git Code </sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ahsoka-tano01.png" width=115  heigth=120><br><sub> Ahsoka Tano</sub>](https://github.com/emersonpessoa01) | [<img src="image/images/ezra-bridges.png" width=115  heigth=120><br><sub> Ezra Bridges</sub>](https://github.com/emersonpessoa01) | [<img src="image/images/sabine-wren.png" width=115  heigth=120><br><sub> Sabine Wren</sub>](https://github.com/emersonpessoa01) |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 
 <!--<details>
 <summary><h3><b> Language and Tools:</h3></b>
@@ -75,9 +84,12 @@
  | :---:| :---: |
 </details> -->
 
-##
+### <p align="center">
 
-<h3><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"><b> Linguagens e ferramentas:</h3></b>
+  <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
+    <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px"> Linguagens e ferramentas:
+  </span>
+</p>
 
 <p dir="auto">
 <code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="logo-html" style="max-width=100%"></a></code>
@@ -91,7 +103,6 @@
 <code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40" height="40" alt="logo-insomnia" style="max-width=100%"></a></code>
 
 <!-- <code><a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" target="_blank" rel="noopener noreferrer nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="logo-github" style="max-width=100%; background: #DD0031; border-radius:8px"></a></code> -->
-
 
 <code><a href="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="logo-vercel"/></a></code><code><a href="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="logo-codesandbox"></a></code><code><a href="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Styled Components-%23ffc0cb.svg?&style=for-the-badge&logo=styledcomponents&logoColor=%23e10098" alt="logo-styled components"/></a></code>
 <code><a href="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="logo-replit"></a></code>
@@ -122,7 +133,6 @@
 <!-- <a href="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="logo-heroku"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"> -->
-
 
 <p>
   <code><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a></code>
@@ -161,12 +171,19 @@
  
  ##
  
- <h3> 🥇 Visualizações:</h3>
+ <!-- <h3> 🥇 Visualizações:</h3> -->
+ <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
+    👁️ Visitantes
+  </span><br>
  <!--<div>
  <img align="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
  <img align="right" src="image/images/avatar02-removebg.png" width="180">
 </div> -->
  <!--![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)-->
+
+ <p align="center">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=4chan&logoColor=006600&hit=false&label=Visitantes" />
+</p>
 
 ###
 
@@ -177,27 +194,37 @@
 </picture>
 
 ###
+
 <!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonpessoa01.emersonpessoa01&left_color=darkviolet&left_text=Visitantes"  />
 </div>
 -->
 
-<p align="center">
-  <img src="https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=4chan&logoColor=006600&hit=false&label=Visitantes" />
-</p>
-
 ###
 
 <!-- ### 🚀 Contribuições -->
 
-### <img src="./image/gifs/animated-flame-01.gif" width="30px" height="30px"/> Contribuições
+### <p align="center">
+
+  <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
+    <img src="./image/gifs/animated-flame-01.gif" width="30px" height="30px"/> Contribuições
+
+  </span>
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonpessoa01&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
-### 🏆 Troféus
+###
+
+### <p align="center">
+
+  <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
+    🏆 Troféus
+  </span>
+</p>
 
 <!--### <img src="./image/gifs/troféu.gif" width="30px" height="30px"/> Troféus-->
 
@@ -213,7 +240,12 @@
 
 <!--### 📌 Projetos em Destaque-->
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;"> Projetos em Destaque
+### <p align="center">
+
+  <span style="color:#00FF00; font-weight:bold; font-size:18px; font-family:monospace;">
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;"> Projetos em Destaque
+  </span>
+</p>
 
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
 [![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
@@ -226,7 +258,6 @@
 ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3779cf&height=180&section=header&text=Thank`s&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
-
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
