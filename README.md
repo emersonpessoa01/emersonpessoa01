@@ -167,7 +167,6 @@
  <img align="right" src="image/images/avatar02-removebg.png" width="180">
 </div> -->
  <!--![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)-->
- <p align="left">Hello World!!</p>
 
 ###
 
