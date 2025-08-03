@@ -162,14 +162,28 @@
  ##
  
  <h3> 🥇 Visualizações:</h3>
- <div>
+ <!--<div>
  <img align="center" src="https://profile-counter.glitch.me/emersonpessoa01/count.svg" />
-<!--  <img align="right" src="image/images/avatar02-removebg.png" width="180"> -->
-</div>
- 
+ <img align="right" src="image/images/avatar02-removebg.png" width="180">
+</div> -->
  <!--![Snake animation](https://github.com/emersonpessoa01/emersonpessoa01/blob/output/github-contribution-grid-snake.svg)-->
+ <p align="left">Hello World!!</p>
 
-##
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emersonpessoa01/emersonpessoa01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emersonpessoa01/emersonpessoa01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emersonpessoa01/emersonpessoa01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonpessoa01.emersonpessoa01&"  />
+</div>
+
+###
 
 <!-- ### 🚀 Contribuições -->
 
