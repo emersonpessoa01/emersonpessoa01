@@ -180,7 +180,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonpessoa01.emersonpessoa01&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonpessoa01.emersonpessoa01&left_color=darkviolet&left_text=Visitantes"  />
 </div>
 
 ###
