@@ -177,10 +177,15 @@
 </picture>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=emersonpessoa01.emersonpessoa01&left_color=darkviolet&left_text=Visitantes"  />
 </div>
+-->
+
+<p align="center">
+  <img src="https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&lcolor=000&color=fff&style=for-the-badge&logo=4chan&logoColor=006600&hit=false&label=Visitantes" />
+</p>
 
 ###
 
@@ -221,6 +226,7 @@
 ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3779cf&height=180&section=header&text=Thank`s&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
 
 <!--
 **emersonpessoa01/emersonpessoa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
