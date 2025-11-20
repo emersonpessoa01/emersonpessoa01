@@ -250,6 +250,7 @@
 [![desafio-labenu](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=desafio-labenu)](https://github.com/emersonpessoa01/desafio-labenu)
 [![clima-js](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=clima-js)](https://github.com/emersonpessoa01/clima-js)
 [![cineflix-clone](https://github-readme-stats.vercel.app/api/pin?username=emersonpessoa01&repo=cineflix-clone)](https://github.com/emersonpessoa01/cineflix-clone)
+[![nikel](https://github-readme-stats.vercel.app/api/pin?username=emersonpessoa01&repo=nikel)](https://github.com/emersonpessoa01/nkiel)
 
 ##
 
