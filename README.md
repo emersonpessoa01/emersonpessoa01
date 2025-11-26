@@ -246,7 +246,7 @@
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=portfolio-emerson)](https://github.com/emersonpessoa01/portfolio-emerson)
 [![namorados-boticario](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=namorados-boticario)](https://github.com/emersonpessoa01/namorados-boticario)
 [![portfolio-emerson](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=website-motos)](https://github.com/emersonpessoa01/website-motos)
-[![alura-plus](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=alura-plus-responsive)](https://github.com/emersonpessoa01/alura-plus-responsive)
+[![alura-plus-responsive](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=alura-plus-responsive)](https://github.com/emersonpessoa01/alura-plus-responsive)
 [![desafio-labenu](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=desafio-labenu)](https://github.com/emersonpessoa01/desafio-labenu)
 [![clima-js](https://github-readme-stats.vercel.app/api/pin/?username=emersonpessoa01&repo=clima-js)](https://github.com/emersonpessoa01/clima-js)
 [![cineflix-clone](https://github-readme-stats.vercel.app/api/pin?username=emersonpessoa01&repo=cineflix-clone)](https://github.com/emersonpessoa01/cineflix-clone)
